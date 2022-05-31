@@ -1,2 +1,2 @@
 Hello!!
-This document is for the test for using git.
+This document is for the test of using git.
